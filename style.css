@@ -118,9 +118,7 @@ nav a:hover {
   left: 100px;
 }
 .dashboard-preview.large {
-  width: 700px;
-  height: 400px;
-  margin: 2rem auto;
+    margin: auto auto;
 }
 .features {
   padding: 4rem 2rem 2rem 2rem;
